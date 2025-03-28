@@ -1,0 +1,3262 @@
+[
+  {
+    "model": "suppliers.product",
+    "pk": 1,
+    "fields": {
+      "name": "Товар 1",
+      "model": "Модель 1",
+      "release_date": "2023-01-02"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 2,
+    "fields": {
+      "name": "Товар 2",
+      "model": "Модель 2",
+      "release_date": "2023-01-03"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 3,
+    "fields": {
+      "name": "Товар 3",
+      "model": "Модель 3",
+      "release_date": "2023-01-04"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 4,
+    "fields": {
+      "name": "Товар 4",
+      "model": "Модель 4",
+      "release_date": "2023-01-05"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 5,
+    "fields": {
+      "name": "Товар 5",
+      "model": "Модель 5",
+      "release_date": "2023-01-06"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 6,
+    "fields": {
+      "name": "Товар 6",
+      "model": "Модель 6",
+      "release_date": "2023-01-07"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 7,
+    "fields": {
+      "name": "Товар 7",
+      "model": "Модель 7",
+      "release_date": "2023-01-08"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 8,
+    "fields": {
+      "name": "Товар 8",
+      "model": "Модель 8",
+      "release_date": "2023-01-09"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 9,
+    "fields": {
+      "name": "Товар 9",
+      "model": "Модель 9",
+      "release_date": "2023-01-10"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 10,
+    "fields": {
+      "name": "Товар 10",
+      "model": "Модель 10",
+      "release_date": "2023-01-11"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 11,
+    "fields": {
+      "name": "Товар 11",
+      "model": "Модель 11",
+      "release_date": "2023-01-12"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 12,
+    "fields": {
+      "name": "Товар 12",
+      "model": "Модель 12",
+      "release_date": "2023-01-13"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 13,
+    "fields": {
+      "name": "Товар 13",
+      "model": "Модель 13",
+      "release_date": "2023-01-14"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 14,
+    "fields": {
+      "name": "Товар 14",
+      "model": "Модель 14",
+      "release_date": "2023-01-15"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 15,
+    "fields": {
+      "name": "Товар 15",
+      "model": "Модель 15",
+      "release_date": "2023-01-16"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 16,
+    "fields": {
+      "name": "Товар 16",
+      "model": "Модель 16",
+      "release_date": "2023-01-17"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 17,
+    "fields": {
+      "name": "Товар 17",
+      "model": "Модель 17",
+      "release_date": "2023-01-18"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 18,
+    "fields": {
+      "name": "Товар 18",
+      "model": "Модель 18",
+      "release_date": "2023-01-19"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 19,
+    "fields": {
+      "name": "Товар 19",
+      "model": "Модель 19",
+      "release_date": "2023-01-20"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 20,
+    "fields": {
+      "name": "Товар 20",
+      "model": "Модель 20",
+      "release_date": "2023-01-21"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 21,
+    "fields": {
+      "name": "Товар 21",
+      "model": "Модель 21",
+      "release_date": "2023-01-22"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 22,
+    "fields": {
+      "name": "Товар 22",
+      "model": "Модель 22",
+      "release_date": "2023-01-23"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 23,
+    "fields": {
+      "name": "Товар 23",
+      "model": "Модель 23",
+      "release_date": "2023-01-24"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 24,
+    "fields": {
+      "name": "Товар 24",
+      "model": "Модель 24",
+      "release_date": "2023-01-25"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 25,
+    "fields": {
+      "name": "Товар 25",
+      "model": "Модель 25",
+      "release_date": "2023-01-26"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 26,
+    "fields": {
+      "name": "Товар 26",
+      "model": "Модель 26",
+      "release_date": "2023-01-27"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 27,
+    "fields": {
+      "name": "Товар 27",
+      "model": "Модель 27",
+      "release_date": "2023-01-28"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 28,
+    "fields": {
+      "name": "Товар 28",
+      "model": "Модель 28",
+      "release_date": "2023-01-29"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 29,
+    "fields": {
+      "name": "Товар 29",
+      "model": "Модель 29",
+      "release_date": "2023-01-30"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 30,
+    "fields": {
+      "name": "Товар 30",
+      "model": "Модель 30",
+      "release_date": "2023-01-31"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 31,
+    "fields": {
+      "name": "Товар 31",
+      "model": "Модель 31",
+      "release_date": "2023-02-01"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 32,
+    "fields": {
+      "name": "Товар 32",
+      "model": "Модель 32",
+      "release_date": "2023-02-02"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 33,
+    "fields": {
+      "name": "Товар 33",
+      "model": "Модель 33",
+      "release_date": "2023-02-03"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 34,
+    "fields": {
+      "name": "Товар 34",
+      "model": "Модель 34",
+      "release_date": "2023-02-04"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 35,
+    "fields": {
+      "name": "Товар 35",
+      "model": "Модель 35",
+      "release_date": "2023-02-05"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 36,
+    "fields": {
+      "name": "Товар 36",
+      "model": "Модель 36",
+      "release_date": "2023-02-06"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 37,
+    "fields": {
+      "name": "Товар 37",
+      "model": "Модель 37",
+      "release_date": "2023-02-07"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 38,
+    "fields": {
+      "name": "Товар 38",
+      "model": "Модель 38",
+      "release_date": "2023-02-08"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 39,
+    "fields": {
+      "name": "Товар 39",
+      "model": "Модель 39",
+      "release_date": "2023-02-09"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 40,
+    "fields": {
+      "name": "Товар 40",
+      "model": "Модель 40",
+      "release_date": "2023-02-10"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 41,
+    "fields": {
+      "name": "Товар 41",
+      "model": "Модель 41",
+      "release_date": "2023-02-11"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 42,
+    "fields": {
+      "name": "Товар 42",
+      "model": "Модель 42",
+      "release_date": "2023-02-12"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 43,
+    "fields": {
+      "name": "Товар 43",
+      "model": "Модель 43",
+      "release_date": "2023-02-13"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 44,
+    "fields": {
+      "name": "Товар 44",
+      "model": "Модель 44",
+      "release_date": "2023-02-14"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 45,
+    "fields": {
+      "name": "Товар 45",
+      "model": "Модель 45",
+      "release_date": "2023-02-15"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 46,
+    "fields": {
+      "name": "Товар 46",
+      "model": "Модель 46",
+      "release_date": "2023-02-16"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 47,
+    "fields": {
+      "name": "Товар 47",
+      "model": "Модель 47",
+      "release_date": "2023-02-17"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 48,
+    "fields": {
+      "name": "Товар 48",
+      "model": "Модель 48",
+      "release_date": "2023-02-18"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 49,
+    "fields": {
+      "name": "Товар 49",
+      "model": "Модель 49",
+      "release_date": "2023-02-19"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 50,
+    "fields": {
+      "name": "Товар 50",
+      "model": "Модель 50",
+      "release_date": "2023-02-20"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 51,
+    "fields": {
+      "name": "Товар 51",
+      "model": "Модель 51",
+      "release_date": "2023-02-21"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 52,
+    "fields": {
+      "name": "Товар 52",
+      "model": "Модель 52",
+      "release_date": "2023-02-22"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 53,
+    "fields": {
+      "name": "Товар 53",
+      "model": "Модель 53",
+      "release_date": "2023-02-23"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 54,
+    "fields": {
+      "name": "Товар 54",
+      "model": "Модель 54",
+      "release_date": "2023-02-24"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 55,
+    "fields": {
+      "name": "Товар 55",
+      "model": "Модель 55",
+      "release_date": "2023-02-25"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 56,
+    "fields": {
+      "name": "Товар 56",
+      "model": "Модель 56",
+      "release_date": "2023-02-26"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 57,
+    "fields": {
+      "name": "Товар 57",
+      "model": "Модель 57",
+      "release_date": "2023-02-27"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 58,
+    "fields": {
+      "name": "Товар 58",
+      "model": "Модель 58",
+      "release_date": "2023-02-28"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 59,
+    "fields": {
+      "name": "Товар 59",
+      "model": "Модель 59",
+      "release_date": "2023-03-01"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 60,
+    "fields": {
+      "name": "Товар 60",
+      "model": "Модель 60",
+      "release_date": "2023-03-02"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 61,
+    "fields": {
+      "name": "Товар 61",
+      "model": "Модель 61",
+      "release_date": "2023-03-03"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 62,
+    "fields": {
+      "name": "Товар 62",
+      "model": "Модель 62",
+      "release_date": "2023-03-04"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 63,
+    "fields": {
+      "name": "Товар 63",
+      "model": "Модель 63",
+      "release_date": "2023-03-05"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 64,
+    "fields": {
+      "name": "Товар 64",
+      "model": "Модель 64",
+      "release_date": "2023-03-06"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 65,
+    "fields": {
+      "name": "Товар 65",
+      "model": "Модель 65",
+      "release_date": "2023-03-07"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 66,
+    "fields": {
+      "name": "Товар 66",
+      "model": "Модель 66",
+      "release_date": "2023-03-08"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 67,
+    "fields": {
+      "name": "Товар 67",
+      "model": "Модель 67",
+      "release_date": "2023-03-09"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 68,
+    "fields": {
+      "name": "Товар 68",
+      "model": "Модель 68",
+      "release_date": "2023-03-10"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 69,
+    "fields": {
+      "name": "Товар 69",
+      "model": "Модель 69",
+      "release_date": "2023-03-11"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 70,
+    "fields": {
+      "name": "Товар 70",
+      "model": "Модель 70",
+      "release_date": "2023-03-12"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 71,
+    "fields": {
+      "name": "Товар 71",
+      "model": "Модель 71",
+      "release_date": "2023-03-13"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 72,
+    "fields": {
+      "name": "Товар 72",
+      "model": "Модель 72",
+      "release_date": "2023-03-14"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 73,
+    "fields": {
+      "name": "Товар 73",
+      "model": "Модель 73",
+      "release_date": "2023-03-15"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 74,
+    "fields": {
+      "name": "Товар 74",
+      "model": "Модель 74",
+      "release_date": "2023-03-16"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 75,
+    "fields": {
+      "name": "Товар 75",
+      "model": "Модель 75",
+      "release_date": "2023-03-17"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 76,
+    "fields": {
+      "name": "Товар 76",
+      "model": "Модель 76",
+      "release_date": "2023-03-18"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 77,
+    "fields": {
+      "name": "Товар 77",
+      "model": "Модель 77",
+      "release_date": "2023-03-19"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 78,
+    "fields": {
+      "name": "Товар 78",
+      "model": "Модель 78",
+      "release_date": "2023-03-20"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 79,
+    "fields": {
+      "name": "Товар 79",
+      "model": "Модель 79",
+      "release_date": "2023-03-21"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 80,
+    "fields": {
+      "name": "Товар 80",
+      "model": "Модель 80",
+      "release_date": "2023-03-22"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 81,
+    "fields": {
+      "name": "Товар 81",
+      "model": "Модель 81",
+      "release_date": "2023-03-23"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 82,
+    "fields": {
+      "name": "Товар 82",
+      "model": "Модель 82",
+      "release_date": "2023-03-24"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 83,
+    "fields": {
+      "name": "Товар 83",
+      "model": "Модель 83",
+      "release_date": "2023-03-25"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 84,
+    "fields": {
+      "name": "Товар 84",
+      "model": "Модель 84",
+      "release_date": "2023-03-26"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 85,
+    "fields": {
+      "name": "Товар 85",
+      "model": "Модель 85",
+      "release_date": "2023-03-27"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 86,
+    "fields": {
+      "name": "Товар 86",
+      "model": "Модель 86",
+      "release_date": "2023-03-28"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 87,
+    "fields": {
+      "name": "Товар 87",
+      "model": "Модель 87",
+      "release_date": "2023-03-29"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 88,
+    "fields": {
+      "name": "Товар 88",
+      "model": "Модель 88",
+      "release_date": "2023-03-30"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 89,
+    "fields": {
+      "name": "Товар 89",
+      "model": "Модель 89",
+      "release_date": "2023-03-31"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 90,
+    "fields": {
+      "name": "Товар 90",
+      "model": "Модель 90",
+      "release_date": "2023-04-01"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 91,
+    "fields": {
+      "name": "Товар 91",
+      "model": "Модель 91",
+      "release_date": "2023-04-02"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 92,
+    "fields": {
+      "name": "Товар 92",
+      "model": "Модель 92",
+      "release_date": "2023-04-03"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 93,
+    "fields": {
+      "name": "Товар 93",
+      "model": "Модель 93",
+      "release_date": "2023-04-04"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 94,
+    "fields": {
+      "name": "Товар 94",
+      "model": "Модель 94",
+      "release_date": "2023-04-05"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 95,
+    "fields": {
+      "name": "Товар 95",
+      "model": "Модель 95",
+      "release_date": "2023-04-06"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 96,
+    "fields": {
+      "name": "Товар 96",
+      "model": "Модель 96",
+      "release_date": "2023-04-07"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 97,
+    "fields": {
+      "name": "Товар 97",
+      "model": "Модель 97",
+      "release_date": "2023-04-08"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 98,
+    "fields": {
+      "name": "Товар 98",
+      "model": "Модель 98",
+      "release_date": "2023-04-09"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 99,
+    "fields": {
+      "name": "Товар 99",
+      "model": "Модель 99",
+      "release_date": "2023-04-10"
+    }
+  },
+  {
+    "model": "suppliers.product",
+    "pk": 100,
+    "fields": {
+      "name": "Товар 100",
+      "model": "Модель 100",
+      "release_date": "2023-04-11"
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 1,
+    "fields": {
+      "supplier": 7,
+      "product": 1
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 2,
+    "fields": {
+      "supplier": 4,
+      "product": 2
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 3,
+    "fields": {
+      "supplier": 16,
+      "product": 3
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 4,
+    "fields": {
+      "supplier": 1,
+      "product": 3
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 5,
+    "fields": {
+      "supplier": 19,
+      "product": 3
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 6,
+    "fields": {
+      "supplier": 11,
+      "product": 4
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 7,
+    "fields": {
+      "supplier": 9,
+      "product": 4
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 8,
+    "fields": {
+      "supplier": 13,
+      "product": 4
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 9,
+    "fields": {
+      "supplier": 17,
+      "product": 4
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 10,
+    "fields": {
+      "supplier": 7,
+      "product": 4
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 11,
+    "fields": {
+      "supplier": 15,
+      "product": 5
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 12,
+    "fields": {
+      "supplier": 1,
+      "product": 5
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 13,
+    "fields": {
+      "supplier": 5,
+      "product": 5
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 14,
+    "fields": {
+      "supplier": 20,
+      "product": 6
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 15,
+    "fields": {
+      "supplier": 16,
+      "product": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 16,
+    "fields": {
+      "supplier": 4,
+      "product": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 17,
+    "fields": {
+      "supplier": 13,
+      "product": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 18,
+    "fields": {
+      "supplier": 11,
+      "product": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 19,
+    "fields": {
+      "supplier": 12,
+      "product": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 20,
+    "fields": {
+      "supplier": 17,
+      "product": 8
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 21,
+    "fields": {
+      "supplier": 10,
+      "product": 9
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 22,
+    "fields": {
+      "supplier": 10,
+      "product": 10
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 23,
+    "fields": {
+      "supplier": 10,
+      "product": 11
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 24,
+    "fields": {
+      "supplier": 1,
+      "product": 11
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 25,
+    "fields": {
+      "supplier": 18,
+      "product": 12
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 26,
+    "fields": {
+      "supplier": 1,
+      "product": 12
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 27,
+    "fields": {
+      "supplier": 15,
+      "product": 12
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 28,
+    "fields": {
+      "supplier": 1,
+      "product": 13
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 29,
+    "fields": {
+      "supplier": 15,
+      "product": 14
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 30,
+    "fields": {
+      "supplier": 1,
+      "product": 14
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 31,
+    "fields": {
+      "supplier": 13,
+      "product": 15
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 32,
+    "fields": {
+      "supplier": 7,
+      "product": 15
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 33,
+    "fields": {
+      "supplier": 6,
+      "product": 16
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 34,
+    "fields": {
+      "supplier": 7,
+      "product": 16
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 35,
+    "fields": {
+      "supplier": 9,
+      "product": 16
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 36,
+    "fields": {
+      "supplier": 13,
+      "product": 17
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 37,
+    "fields": {
+      "supplier": 4,
+      "product": 17
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 38,
+    "fields": {
+      "supplier": 14,
+      "product": 17
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 39,
+    "fields": {
+      "supplier": 4,
+      "product": 18
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 40,
+    "fields": {
+      "supplier": 3,
+      "product": 19
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 41,
+    "fields": {
+      "supplier": 14,
+      "product": 19
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 42,
+    "fields": {
+      "supplier": 17,
+      "product": 20
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 43,
+    "fields": {
+      "supplier": 4,
+      "product": 20
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 44,
+    "fields": {
+      "supplier": 14,
+      "product": 21
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 45,
+    "fields": {
+      "supplier": 9,
+      "product": 21
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 46,
+    "fields": {
+      "supplier": 10,
+      "product": 21
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 47,
+    "fields": {
+      "supplier": 8,
+      "product": 21
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 48,
+    "fields": {
+      "supplier": 4,
+      "product": 22
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 49,
+    "fields": {
+      "supplier": 17,
+      "product": 22
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 50,
+    "fields": {
+      "supplier": 5,
+      "product": 23
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 51,
+    "fields": {
+      "supplier": 3,
+      "product": 23
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 52,
+    "fields": {
+      "supplier": 15,
+      "product": 23
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 53,
+    "fields": {
+      "supplier": 6,
+      "product": 23
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 54,
+    "fields": {
+      "supplier": 19,
+      "product": 23
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 55,
+    "fields": {
+      "supplier": 8,
+      "product": 24
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 56,
+    "fields": {
+      "supplier": 4,
+      "product": 25
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 57,
+    "fields": {
+      "supplier": 3,
+      "product": 25
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 58,
+    "fields": {
+      "supplier": 18,
+      "product": 25
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 59,
+    "fields": {
+      "supplier": 14,
+      "product": 26
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 60,
+    "fields": {
+      "supplier": 3,
+      "product": 26
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 61,
+    "fields": {
+      "supplier": 15,
+      "product": 27
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 62,
+    "fields": {
+      "supplier": 7,
+      "product": 27
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 63,
+    "fields": {
+      "supplier": 12,
+      "product": 28
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 64,
+    "fields": {
+      "supplier": 7,
+      "product": 28
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 65,
+    "fields": {
+      "supplier": 12,
+      "product": 29
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 66,
+    "fields": {
+      "supplier": 11,
+      "product": 30
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 67,
+    "fields": {
+      "supplier": 15,
+      "product": 30
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 68,
+    "fields": {
+      "supplier": 18,
+      "product": 30
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 69,
+    "fields": {
+      "supplier": 4,
+      "product": 30
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 70,
+    "fields": {
+      "supplier": 9,
+      "product": 30
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 71,
+    "fields": {
+      "supplier": 4,
+      "product": 31
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 72,
+    "fields": {
+      "supplier": 15,
+      "product": 31
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 73,
+    "fields": {
+      "supplier": 6,
+      "product": 31
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 74,
+    "fields": {
+      "supplier": 18,
+      "product": 31
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 75,
+    "fields": {
+      "supplier": 7,
+      "product": 32
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 76,
+    "fields": {
+      "supplier": 4,
+      "product": 32
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 77,
+    "fields": {
+      "supplier": 13,
+      "product": 32
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 78,
+    "fields": {
+      "supplier": 11,
+      "product": 32
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 79,
+    "fields": {
+      "supplier": 19,
+      "product": 33
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 80,
+    "fields": {
+      "supplier": 14,
+      "product": 33
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 81,
+    "fields": {
+      "supplier": 15,
+      "product": 33
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 82,
+    "fields": {
+      "supplier": 11,
+      "product": 33
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 83,
+    "fields": {
+      "supplier": 17,
+      "product": 34
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 84,
+    "fields": {
+      "supplier": 6,
+      "product": 34
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 85,
+    "fields": {
+      "supplier": 13,
+      "product": 34
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 86,
+    "fields": {
+      "supplier": 1,
+      "product": 34
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 87,
+    "fields": {
+      "supplier": 18,
+      "product": 34
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 88,
+    "fields": {
+      "supplier": 15,
+      "product": 35
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 89,
+    "fields": {
+      "supplier": 12,
+      "product": 35
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 90,
+    "fields": {
+      "supplier": 14,
+      "product": 35
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 91,
+    "fields": {
+      "supplier": 6,
+      "product": 35
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 92,
+    "fields": {
+      "supplier": 17,
+      "product": 35
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 93,
+    "fields": {
+      "supplier": 18,
+      "product": 36
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 94,
+    "fields": {
+      "supplier": 6,
+      "product": 36
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 95,
+    "fields": {
+      "supplier": 12,
+      "product": 36
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 96,
+    "fields": {
+      "supplier": 7,
+      "product": 36
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 97,
+    "fields": {
+      "supplier": 19,
+      "product": 37
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 98,
+    "fields": {
+      "supplier": 1,
+      "product": 37
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 99,
+    "fields": {
+      "supplier": 7,
+      "product": 37
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 100,
+    "fields": {
+      "supplier": 2,
+      "product": 37
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 101,
+    "fields": {
+      "supplier": 3,
+      "product": 38
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 102,
+    "fields": {
+      "supplier": 12,
+      "product": 38
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 103,
+    "fields": {
+      "supplier": 17,
+      "product": 38
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 104,
+    "fields": {
+      "supplier": 4,
+      "product": 38
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 105,
+    "fields": {
+      "supplier": 8,
+      "product": 38
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 106,
+    "fields": {
+      "supplier": 19,
+      "product": 39
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 107,
+    "fields": {
+      "supplier": 7,
+      "product": 39
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 108,
+    "fields": {
+      "supplier": 16,
+      "product": 39
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 109,
+    "fields": {
+      "supplier": 20,
+      "product": 39
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 110,
+    "fields": {
+      "supplier": 13,
+      "product": 39
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 111,
+    "fields": {
+      "supplier": 18,
+      "product": 40
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 112,
+    "fields": {
+      "supplier": 9,
+      "product": 40
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 113,
+    "fields": {
+      "supplier": 8,
+      "product": 40
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 114,
+    "fields": {
+      "supplier": 11,
+      "product": 40
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 115,
+    "fields": {
+      "supplier": 7,
+      "product": 40
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 116,
+    "fields": {
+      "supplier": 17,
+      "product": 41
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 117,
+    "fields": {
+      "supplier": 5,
+      "product": 41
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 118,
+    "fields": {
+      "supplier": 2,
+      "product": 41
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 119,
+    "fields": {
+      "supplier": 9,
+      "product": 41
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 120,
+    "fields": {
+      "supplier": 4,
+      "product": 41
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 121,
+    "fields": {
+      "supplier": 10,
+      "product": 42
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 122,
+    "fields": {
+      "supplier": 9,
+      "product": 42
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 123,
+    "fields": {
+      "supplier": 8,
+      "product": 42
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 124,
+    "fields": {
+      "supplier": 6,
+      "product": 43
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 125,
+    "fields": {
+      "supplier": 2,
+      "product": 43
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 126,
+    "fields": {
+      "supplier": 1,
+      "product": 43
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 127,
+    "fields": {
+      "supplier": 20,
+      "product": 43
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 128,
+    "fields": {
+      "supplier": 10,
+      "product": 43
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 129,
+    "fields": {
+      "supplier": 14,
+      "product": 44
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 130,
+    "fields": {
+      "supplier": 12,
+      "product": 45
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 131,
+    "fields": {
+      "supplier": 3,
+      "product": 46
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 132,
+    "fields": {
+      "supplier": 11,
+      "product": 46
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 133,
+    "fields": {
+      "supplier": 2,
+      "product": 47
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 134,
+    "fields": {
+      "supplier": 15,
+      "product": 47
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 135,
+    "fields": {
+      "supplier": 10,
+      "product": 47
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 136,
+    "fields": {
+      "supplier": 14,
+      "product": 47
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 137,
+    "fields": {
+      "supplier": 11,
+      "product": 47
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 138,
+    "fields": {
+      "supplier": 20,
+      "product": 48
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 139,
+    "fields": {
+      "supplier": 8,
+      "product": 48
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 140,
+    "fields": {
+      "supplier": 20,
+      "product": 49
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 141,
+    "fields": {
+      "supplier": 16,
+      "product": 49
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 142,
+    "fields": {
+      "supplier": 11,
+      "product": 50
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 143,
+    "fields": {
+      "supplier": 16,
+      "product": 51
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 144,
+    "fields": {
+      "supplier": 17,
+      "product": 51
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 145,
+    "fields": {
+      "supplier": 3,
+      "product": 51
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 146,
+    "fields": {
+      "supplier": 5,
+      "product": 51
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 147,
+    "fields": {
+      "supplier": 19,
+      "product": 52
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 148,
+    "fields": {
+      "supplier": 6,
+      "product": 53
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 149,
+    "fields": {
+      "supplier": 19,
+      "product": 54
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 150,
+    "fields": {
+      "supplier": 2,
+      "product": 55
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 151,
+    "fields": {
+      "supplier": 2,
+      "product": 56
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 152,
+    "fields": {
+      "supplier": 17,
+      "product": 56
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 153,
+    "fields": {
+      "supplier": 7,
+      "product": 56
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 154,
+    "fields": {
+      "supplier": 11,
+      "product": 56
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 155,
+    "fields": {
+      "supplier": 8,
+      "product": 56
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 156,
+    "fields": {
+      "supplier": 8,
+      "product": 57
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 157,
+    "fields": {
+      "supplier": 6,
+      "product": 57
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 158,
+    "fields": {
+      "supplier": 5,
+      "product": 57
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 159,
+    "fields": {
+      "supplier": 12,
+      "product": 58
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 160,
+    "fields": {
+      "supplier": 11,
+      "product": 58
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 161,
+    "fields": {
+      "supplier": 17,
+      "product": 58
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 162,
+    "fields": {
+      "supplier": 15,
+      "product": 59
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 163,
+    "fields": {
+      "supplier": 6,
+      "product": 60
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 164,
+    "fields": {
+      "supplier": 9,
+      "product": 60
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 165,
+    "fields": {
+      "supplier": 8,
+      "product": 60
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 166,
+    "fields": {
+      "supplier": 16,
+      "product": 60
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 167,
+    "fields": {
+      "supplier": 2,
+      "product": 61
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 168,
+    "fields": {
+      "supplier": 1,
+      "product": 61
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 169,
+    "fields": {
+      "supplier": 15,
+      "product": 61
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 170,
+    "fields": {
+      "supplier": 10,
+      "product": 62
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 171,
+    "fields": {
+      "supplier": 13,
+      "product": 62
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 172,
+    "fields": {
+      "supplier": 19,
+      "product": 63
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 173,
+    "fields": {
+      "supplier": 14,
+      "product": 63
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 174,
+    "fields": {
+      "supplier": 2,
+      "product": 63
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 175,
+    "fields": {
+      "supplier": 13,
+      "product": 64
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 176,
+    "fields": {
+      "supplier": 12,
+      "product": 65
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 177,
+    "fields": {
+      "supplier": 2,
+      "product": 65
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 178,
+    "fields": {
+      "supplier": 18,
+      "product": 65
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 179,
+    "fields": {
+      "supplier": 9,
+      "product": 66
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 180,
+    "fields": {
+      "supplier": 4,
+      "product": 66
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 181,
+    "fields": {
+      "supplier": 5,
+      "product": 66
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 182,
+    "fields": {
+      "supplier": 16,
+      "product": 66
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 183,
+    "fields": {
+      "supplier": 7,
+      "product": 66
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 184,
+    "fields": {
+      "supplier": 9,
+      "product": 67
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 185,
+    "fields": {
+      "supplier": 12,
+      "product": 67
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 186,
+    "fields": {
+      "supplier": 17,
+      "product": 67
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 187,
+    "fields": {
+      "supplier": 1,
+      "product": 67
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 188,
+    "fields": {
+      "supplier": 12,
+      "product": 68
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 189,
+    "fields": {
+      "supplier": 5,
+      "product": 69
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 190,
+    "fields": {
+      "supplier": 8,
+      "product": 69
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 191,
+    "fields": {
+      "supplier": 19,
+      "product": 69
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 192,
+    "fields": {
+      "supplier": 7,
+      "product": 70
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 193,
+    "fields": {
+      "supplier": 13,
+      "product": 70
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 194,
+    "fields": {
+      "supplier": 8,
+      "product": 70
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 195,
+    "fields": {
+      "supplier": 2,
+      "product": 70
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 196,
+    "fields": {
+      "supplier": 6,
+      "product": 70
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 197,
+    "fields": {
+      "supplier": 15,
+      "product": 71
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 198,
+    "fields": {
+      "supplier": 11,
+      "product": 72
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 199,
+    "fields": {
+      "supplier": 3,
+      "product": 72
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 200,
+    "fields": {
+      "supplier": 7,
+      "product": 72
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 201,
+    "fields": {
+      "supplier": 6,
+      "product": 72
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 202,
+    "fields": {
+      "supplier": 17,
+      "product": 73
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 203,
+    "fields": {
+      "supplier": 8,
+      "product": 73
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 204,
+    "fields": {
+      "supplier": 12,
+      "product": 73
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 205,
+    "fields": {
+      "supplier": 17,
+      "product": 74
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 206,
+    "fields": {
+      "supplier": 10,
+      "product": 74
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 207,
+    "fields": {
+      "supplier": 6,
+      "product": 74
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 208,
+    "fields": {
+      "supplier": 1,
+      "product": 75
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 209,
+    "fields": {
+      "supplier": 8,
+      "product": 75
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 210,
+    "fields": {
+      "supplier": 3,
+      "product": 75
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 211,
+    "fields": {
+      "supplier": 9,
+      "product": 75
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 212,
+    "fields": {
+      "supplier": 17,
+      "product": 75
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 213,
+    "fields": {
+      "supplier": 16,
+      "product": 76
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 214,
+    "fields": {
+      "supplier": 17,
+      "product": 76
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 215,
+    "fields": {
+      "supplier": 20,
+      "product": 76
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 216,
+    "fields": {
+      "supplier": 4,
+      "product": 76
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 217,
+    "fields": {
+      "supplier": 11,
+      "product": 76
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 218,
+    "fields": {
+      "supplier": 15,
+      "product": 77
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 219,
+    "fields": {
+      "supplier": 14,
+      "product": 77
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 220,
+    "fields": {
+      "supplier": 12,
+      "product": 78
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 221,
+    "fields": {
+      "supplier": 10,
+      "product": 78
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 222,
+    "fields": {
+      "supplier": 16,
+      "product": 79
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 223,
+    "fields": {
+      "supplier": 19,
+      "product": 79
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 224,
+    "fields": {
+      "supplier": 11,
+      "product": 79
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 225,
+    "fields": {
+      "supplier": 8,
+      "product": 79
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 226,
+    "fields": {
+      "supplier": 17,
+      "product": 80
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 227,
+    "fields": {
+      "supplier": 7,
+      "product": 80
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 228,
+    "fields": {
+      "supplier": 10,
+      "product": 80
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 229,
+    "fields": {
+      "supplier": 9,
+      "product": 80
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 230,
+    "fields": {
+      "supplier": 9,
+      "product": 81
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 231,
+    "fields": {
+      "supplier": 11,
+      "product": 81
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 232,
+    "fields": {
+      "supplier": 17,
+      "product": 81
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 233,
+    "fields": {
+      "supplier": 10,
+      "product": 81
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 234,
+    "fields": {
+      "supplier": 18,
+      "product": 81
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 235,
+    "fields": {
+      "supplier": 17,
+      "product": 82
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 236,
+    "fields": {
+      "supplier": 16,
+      "product": 82
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 237,
+    "fields": {
+      "supplier": 5,
+      "product": 82
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 238,
+    "fields": {
+      "supplier": 1,
+      "product": 82
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 239,
+    "fields": {
+      "supplier": 17,
+      "product": 83
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 240,
+    "fields": {
+      "supplier": 13,
+      "product": 83
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 241,
+    "fields": {
+      "supplier": 2,
+      "product": 84
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 242,
+    "fields": {
+      "supplier": 12,
+      "product": 84
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 243,
+    "fields": {
+      "supplier": 10,
+      "product": 85
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 244,
+    "fields": {
+      "supplier": 1,
+      "product": 85
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 245,
+    "fields": {
+      "supplier": 16,
+      "product": 85
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 246,
+    "fields": {
+      "supplier": 19,
+      "product": 85
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 247,
+    "fields": {
+      "supplier": 8,
+      "product": 86
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 248,
+    "fields": {
+      "supplier": 6,
+      "product": 86
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 249,
+    "fields": {
+      "supplier": 16,
+      "product": 86
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 250,
+    "fields": {
+      "supplier": 19,
+      "product": 87
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 251,
+    "fields": {
+      "supplier": 18,
+      "product": 87
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 252,
+    "fields": {
+      "supplier": 2,
+      "product": 87
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 253,
+    "fields": {
+      "supplier": 14,
+      "product": 87
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 254,
+    "fields": {
+      "supplier": 6,
+      "product": 87
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 255,
+    "fields": {
+      "supplier": 13,
+      "product": 88
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 256,
+    "fields": {
+      "supplier": 11,
+      "product": 88
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 257,
+    "fields": {
+      "supplier": 5,
+      "product": 88
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 258,
+    "fields": {
+      "supplier": 3,
+      "product": 89
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 259,
+    "fields": {
+      "supplier": 14,
+      "product": 89
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 260,
+    "fields": {
+      "supplier": 9,
+      "product": 90
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 261,
+    "fields": {
+      "supplier": 7,
+      "product": 91
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 262,
+    "fields": {
+      "supplier": 19,
+      "product": 91
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 263,
+    "fields": {
+      "supplier": 2,
+      "product": 91
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 264,
+    "fields": {
+      "supplier": 18,
+      "product": 91
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 265,
+    "fields": {
+      "supplier": 20,
+      "product": 91
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 266,
+    "fields": {
+      "supplier": 5,
+      "product": 92
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 267,
+    "fields": {
+      "supplier": 3,
+      "product": 92
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 268,
+    "fields": {
+      "supplier": 15,
+      "product": 93
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 269,
+    "fields": {
+      "supplier": 13,
+      "product": 93
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 270,
+    "fields": {
+      "supplier": 20,
+      "product": 93
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 271,
+    "fields": {
+      "supplier": 6,
+      "product": 93
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 272,
+    "fields": {
+      "supplier": 10,
+      "product": 93
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 273,
+    "fields": {
+      "supplier": 7,
+      "product": 94
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 274,
+    "fields": {
+      "supplier": 16,
+      "product": 94
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 275,
+    "fields": {
+      "supplier": 13,
+      "product": 94
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 276,
+    "fields": {
+      "supplier": 2,
+      "product": 95
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 277,
+    "fields": {
+      "supplier": 16,
+      "product": 95
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 278,
+    "fields": {
+      "supplier": 8,
+      "product": 95
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 279,
+    "fields": {
+      "supplier": 19,
+      "product": 96
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 280,
+    "fields": {
+      "supplier": 16,
+      "product": 97
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 281,
+    "fields": {
+      "supplier": 15,
+      "product": 97
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 282,
+    "fields": {
+      "supplier": 5,
+      "product": 98
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 283,
+    "fields": {
+      "supplier": 8,
+      "product": 98
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 284,
+    "fields": {
+      "supplier": 16,
+      "product": 98
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 285,
+    "fields": {
+      "supplier": 19,
+      "product": 98
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 286,
+    "fields": {
+      "supplier": 18,
+      "product": 99
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 287,
+    "fields": {
+      "supplier": 19,
+      "product": 99
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 288,
+    "fields": {
+      "supplier": 12,
+      "product": 99
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 289,
+    "fields": {
+      "supplier": 11,
+      "product": 99
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 290,
+    "fields": {
+      "supplier": 16,
+      "product": 99
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 291,
+    "fields": {
+      "supplier": 3,
+      "product": 100
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 292,
+    "fields": {
+      "supplier": 13,
+      "product": 100
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 293,
+    "fields": {
+      "supplier": 7,
+      "product": 100
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 294,
+    "fields": {
+      "supplier": 4,
+      "product": 100
+    }
+  },
+  {
+    "model": "suppliers.supplier_products",
+    "pk": 295,
+    "fields": {
+      "supplier": 8,
+      "product": 100
+    }
+  }
+]

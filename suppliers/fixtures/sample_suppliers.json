@@ -1,0 +1,302 @@
+[
+  {
+    "model": "suppliers.supplier",
+    "pk": 1,
+    "fields": {
+      "name": "Завод 1",
+      "email": "factory1@example.com",
+      "country": "Россия",
+      "city": "Город 1",
+      "street": "Промышленная 1",
+      "house_number": "1",
+      "debt": "0.00",
+      "created_at": "2025-03-28T16:25:38.310169",
+      "supplier": null
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 2,
+    "fields": {
+      "name": "Завод 2",
+      "email": "factory2@example.com",
+      "country": "Россия",
+      "city": "Город 2",
+      "street": "Промышленная 2",
+      "house_number": "2",
+      "debt": "0.00",
+      "created_at": "2025-03-28T16:25:38.310180",
+      "supplier": null
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 3,
+    "fields": {
+      "name": "Завод 3",
+      "email": "factory3@example.com",
+      "country": "Россия",
+      "city": "Город 3",
+      "street": "Промышленная 3",
+      "house_number": "3",
+      "debt": "0.00",
+      "created_at": "2025-03-28T16:25:38.310184",
+      "supplier": null
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 4,
+    "fields": {
+      "name": "Розничная сеть 4",
+      "email": "retail4@example.com",
+      "country": "Россия",
+      "city": "Город 4",
+      "street": "Центральная 4",
+      "house_number": "4",
+      "debt": "400.00",
+      "created_at": "2025-03-28T16:25:38.310305",
+      "supplier": 2
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 5,
+    "fields": {
+      "name": "Розничная сеть 5",
+      "email": "retail5@example.com",
+      "country": "Россия",
+      "city": "Город 5",
+      "street": "Центральная 5",
+      "house_number": "5",
+      "debt": "500.00",
+      "created_at": "2025-03-28T16:25:38.310312",
+      "supplier": 3
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 6,
+    "fields": {
+      "name": "Розничная сеть 6",
+      "email": "retail6@example.com",
+      "country": "Россия",
+      "city": "Город 6",
+      "street": "Центральная 6",
+      "house_number": "6",
+      "debt": "600.00",
+      "created_at": "2025-03-28T16:25:38.310316",
+      "supplier": 1
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 7,
+    "fields": {
+      "name": "Розничная сеть 7",
+      "email": "retail7@example.com",
+      "country": "Россия",
+      "city": "Город 7",
+      "street": "Центральная 7",
+      "house_number": "7",
+      "debt": "700.00",
+      "created_at": "2025-03-28T16:25:38.310319",
+      "supplier": 2
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 8,
+    "fields": {
+      "name": "Розничная сеть 8",
+      "email": "retail8@example.com",
+      "country": "Россия",
+      "city": "Город 8",
+      "street": "Центральная 8",
+      "house_number": "8",
+      "debt": "800.00",
+      "created_at": "2025-03-28T16:25:38.310323",
+      "supplier": 3
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 9,
+    "fields": {
+      "name": "Розничная сеть 9",
+      "email": "retail9@example.com",
+      "country": "Россия",
+      "city": "Город 9",
+      "street": "Центральная 9",
+      "house_number": "9",
+      "debt": "900.00",
+      "created_at": "2025-03-28T16:25:38.310327",
+      "supplier": 1
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 10,
+    "fields": {
+      "name": "Розничная сеть 10",
+      "email": "retail10@example.com",
+      "country": "Россия",
+      "city": "Город 10",
+      "street": "Центральная 10",
+      "house_number": "10",
+      "debt": "1000.00",
+      "created_at": "2025-03-28T16:25:38.310332",
+      "supplier": 2
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 11,
+    "fields": {
+      "name": "ИП 11",
+      "email": "ip11@example.com",
+      "country": "Россия",
+      "city": "Город 11",
+      "street": "Малая 11",
+      "house_number": "11",
+      "debt": "550.00",
+      "created_at": "2025-03-28T16:25:38.310443",
+      "supplier": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 12,
+    "fields": {
+      "name": "ИП 12",
+      "email": "ip12@example.com",
+      "country": "Россия",
+      "city": "Город 12",
+      "street": "Малая 12",
+      "house_number": "12",
+      "debt": "600.00",
+      "created_at": "2025-03-28T16:25:38.310449",
+      "supplier": 8
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 13,
+    "fields": {
+      "name": "ИП 13",
+      "email": "ip13@example.com",
+      "country": "Россия",
+      "city": "Город 13",
+      "street": "Малая 13",
+      "house_number": "13",
+      "debt": "650.00",
+      "created_at": "2025-03-28T16:25:38.310454",
+      "supplier": 9
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 14,
+    "fields": {
+      "name": "ИП 14",
+      "email": "ip14@example.com",
+      "country": "Россия",
+      "city": "Город 14",
+      "street": "Малая 14",
+      "house_number": "14",
+      "debt": "700.00",
+      "created_at": "2025-03-28T16:25:38.310458",
+      "supplier": 10
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 15,
+    "fields": {
+      "name": "ИП 15",
+      "email": "ip15@example.com",
+      "country": "Россия",
+      "city": "Город 15",
+      "street": "Малая 15",
+      "house_number": "15",
+      "debt": "750.00",
+      "created_at": "2025-03-28T16:25:38.310462",
+      "supplier": 4
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 16,
+    "fields": {
+      "name": "ИП 16",
+      "email": "ip16@example.com",
+      "country": "Россия",
+      "city": "Город 16",
+      "street": "Малая 16",
+      "house_number": "16",
+      "debt": "800.00",
+      "created_at": "2025-03-28T16:25:38.310465",
+      "supplier": 5
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 17,
+    "fields": {
+      "name": "ИП 17",
+      "email": "ip17@example.com",
+      "country": "Россия",
+      "city": "Город 17",
+      "street": "Малая 17",
+      "house_number": "17",
+      "debt": "850.00",
+      "created_at": "2025-03-28T16:25:38.310469",
+      "supplier": 6
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 18,
+    "fields": {
+      "name": "ИП 18",
+      "email": "ip18@example.com",
+      "country": "Россия",
+      "city": "Город 18",
+      "street": "Малая 18",
+      "house_number": "18",
+      "debt": "900.00",
+      "created_at": "2025-03-28T16:25:38.310475",
+      "supplier": 7
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 19,
+    "fields": {
+      "name": "ИП 19",
+      "email": "ip19@example.com",
+      "country": "Россия",
+      "city": "Город 19",
+      "street": "Малая 19",
+      "house_number": "19",
+      "debt": "950.00",
+      "created_at": "2025-03-28T16:25:38.310480",
+      "supplier": 8
+    }
+  },
+  {
+    "model": "suppliers.supplier",
+    "pk": 20,
+    "fields": {
+      "name": "ИП 20",
+      "email": "ip20@example.com",
+      "country": "Россия",
+      "city": "Город 20",
+      "street": "Малая 20",
+      "house_number": "20",
+      "debt": "1000.00",
+      "created_at": "2025-03-28T16:25:38.310485",
+      "supplier": 9
+    }
+  }
+]
